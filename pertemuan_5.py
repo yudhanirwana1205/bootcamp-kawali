@@ -90,7 +90,7 @@ dump_and_write('./json_write.txt', users)
 
 users.append({
     'email': "",
-    'password': '12345'
+    'password': ''
 })
 
 dump_and_write('./json_write.txt', users)
